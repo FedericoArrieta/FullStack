@@ -1,3 +1,8 @@
+//Realizar el ejercicio
+//de la calculadora con 4 operaciones
+//(suma, resta, multiplicacion y division)
+//utilizando Switch
+
 function potenciar() {
   if (exponente === 0) {
     resultado = 1;
